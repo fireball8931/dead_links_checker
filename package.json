@@ -1,0 +1,22 @@
+{
+  "name": "dead_links_checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scanner.js",
+  "scripts": {
+    "test": "node scanner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireball8931/dead_links_checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireball8931/dead_links_checker/issues"
+  },
+  "homepage": "https://github.com/fireball8931/dead_links_checker#readme",
+  "devDependencies": {
+    "broken-link-checker": "^0.7.8"
+  }
+}
